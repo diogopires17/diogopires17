@@ -1,7 +1,22 @@
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
+# Hi there, I'm [Your Name] 👋
+
+## 🚀 About Me
+I'm a passionate developer who loves to explore new technologies and build amazing projects.
+
+## 📊 GitHub Stats:
+
+<!-- Metrics -->
+![Metrics](https://github.com/[diogopires17]/[diogopires17]/blob/master/github-metrics.svg)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark&background=000000)
+
+## 🛠️ Languages and Tools:
+List your skills here like:
+- Language: Python, JavaScript
+- Tools: VSCode, Docker
+## 📫 How to reach me:
+- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
+- Email: your-email@example.com
+
