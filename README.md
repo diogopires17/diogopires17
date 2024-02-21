@@ -6,7 +6,7 @@ I'm a passionate developer who loves to explore new technologies and build amazi
 ## 📊 GitHub Stats:
 
 <!-- Metrics -->
-![Metrics](https://github.com/[diogopires17]/[diogopires17]/blob/master/github-metrics.svg)
+![Metrics](https://github.com/[diogopires17]/[diogopires17]/blob/main/github-metrics.svg)
 
 ## 🔥 Streak Stats
 
