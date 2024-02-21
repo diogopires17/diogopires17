@@ -10,7 +10,7 @@ I'm a passionate developer who loves to explore new technologies and build amazi
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[diogopires17]&theme=dark&background=000000)
 
 ## 🛠️ Languages and Tools:
 List your skills here like:
