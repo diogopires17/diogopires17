@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vasco</h1>
+<h1 align="center">Hi, I'm Diogo</h1>
 <h3 align="center">Student of Software Engineering at Universidade de Aveiro</h3>
 
 <hr/>
@@ -11,7 +11,7 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="[https://www.linkedin.com/in/vasco-faria-b428a2270/](https://www.linkedin.com/in/diogo-pires-11111a219/)" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="Vasco Faria" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diogo-pires-11111a219/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="Diogo Pires" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -22,8 +22,8 @@
 <br>
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=1976d2&icon_color=ffa500&text_color=c9d1d9&bg_color=0d1117" alt="vasco-faria"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogopires17&show_icons=true&count_private=true&hide_border=true&title_color=1976d2&icon_color=ffa500&text_color=c9d1d9&bg_color=0d1117" alt="diogopires17"  /></p>
 
-<p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=1976d2&icon_color=ffa500&text_color=c9d1d9&bg_color=0d1117" alt="vasco-faria" /></p>
+<p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=diogopires17&show_icons=true&count_private=true&hide_border=true&title_color=1976d2&icon_color=ffa500&text_color=c9d1d9&bg_color=0d1117" alt="diogopires17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&theme=transparent" alt="vasco-faria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogopires17&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&theme=transparent" alt="diogopires17" /></p>
