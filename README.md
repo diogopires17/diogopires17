@@ -2,11 +2,6 @@
 <h3 align="center">Student of Software Engineering at Universidade de Aveiro</h3>
 
 <hr/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=FFCA72&center=true&vCenter=true&width=600&lines=Today+is+the+first+day....;You+become+what+you+believe!!" alt="Typing SVG" /></a>
-</div>
-
 <hr>
 
 # 🌐 Socials:
