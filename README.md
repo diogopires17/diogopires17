@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Diogo</h1>
-<h3 align="center">Student of Software Engineering at Universidade de Aveiro</h3>
+<h3 align="center">Studying Software Engineering at Universidade de Aveiro</h3>
 
 <hr/>
 <hr>
